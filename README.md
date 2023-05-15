@@ -1,7 +1,7 @@
 # SciPaperClassification
 
 # Objective
-Clustering and Classificatin of research abstracts into an unknown number of categories
+Clustering and Classification of research abstracts into an unknown number of categories
 
 # Dataset
 Public arxiv dataset - https://www.kaggle.com/datasets/Cornell-University/arxiv
@@ -11,7 +11,6 @@ In this project we have started with two stages:
 
 1. Phase 1: Clustering Abstract Documents (See the jupyter file for detailed explanasion)
 2. Phase 2: Classification Abstract Documents (See the jupyter file for detailed explanasion)
-
 
 
 For each phase, we have a corresponding jupyter file. 
