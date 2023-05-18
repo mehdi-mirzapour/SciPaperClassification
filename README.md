@@ -7,10 +7,12 @@ Clustering and Classification of research abstracts into an unknown number of ca
 Public arxiv dataset - https://www.kaggle.com/datasets/Cornell-University/arxiv
 # Explaination
 
-In this project we have started with two stages:
+In this project we have started with three stages:
 
 1. Phase 1: Clustering Abstract Documents (See the jupyter file for detailed explanasion)
-2. Phase 2: Classification Abstract Documents (See the jupyter file for detailed explanasion)
+2. Phase 2: Classification Abstract Documents with Pytroch (See the jupyter file for detailed explanasion)
+3. Phase 3: Classification Abstract Documents with TensorFlow (See the jupyter file for detailed explanasion)
+
 
 
 For each phase, we have a corresponding jupyter file. 
