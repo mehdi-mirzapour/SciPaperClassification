@@ -61,5 +61,7 @@ We have tried to show why clustering the abstracts are necessary and after creat
 # References
 
 [1] Mustafa, G., Usman, M., Yu, L. et al. Multi-label classification of research articles using Word2Vec and identification of similarity threshold. Sci Rep 11, 21900 (2021). https://doi.org/10.1038/s41598-021-01460-7
+
 [2] Large Scale Subject Category Classification of Scholarly Papers With Deep Attentive Neural Networks Front. Res. Metr. Anal., 10 February 2021 Sec. Text-mining and Literature-based Discovery Volume 5 - 2020 | https://doi.org/10.3389/frma.2020.600382
+
 [3] V. Ganti, R. Ramakrishnan, J. Gehrke, A. Powell and J. French, "Clustering large datasets in arbitrary metric spaces," Proceedings 15th International Conference on Data Engineering (Cat. No.99CB36337), Sydney, NSW, Australia, 1999, pp. 502-511, doi: 10.1109/ICDE.1999.754966.
